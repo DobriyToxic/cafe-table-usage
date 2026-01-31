@@ -1,0 +1,130 @@
+[
+  {
+    "timestamp": "2026-01-31T17:23:26.282991",
+    "original_image": "20260131_172325.jpg",
+    "annotated_image": "20260131_172325_annotated.jpg",
+    "stats": {
+      "total_tables": 13,
+      "occupied": 5,
+      "free": 8,
+      "occupancy_rate": 38.5,
+      "method": "spatial_analysis"
+    },
+    "detections": {
+      "tables_count": 13,
+      "people_count": 5
+    }
+  },
+  {
+    "timestamp": "2026-01-31T17:23:48.957991",
+    "original_image": "20260131_172348.jpg",
+    "annotated_image": "20260131_172348_annotated.jpg",
+    "stats": {
+      "total_tables": 12,
+      "occupied": 3,
+      "free": 9,
+      "occupancy_rate": 25.0,
+      "method": "spatial_analysis"
+    },
+    "detections": {
+      "tables_count": 12,
+      "people_count": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-31T17:23:58.211900",
+    "original_image": "20260131_172358.jpg",
+    "annotated_image": "20260131_172358_annotated.jpg",
+    "stats": {
+      "total_tables": 12,
+      "occupied": 3,
+      "free": 9,
+      "occupancy_rate": 25.0,
+      "method": "spatial_analysis"
+    },
+    "detections": {
+      "tables_count": 12,
+      "people_count": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-31T17:24:05.260008",
+    "original_image": "20260131_172405.jpg",
+    "annotated_image": "20260131_172405_annotated.jpg",
+    "stats": {
+      "total_tables": 9,
+      "occupied": 4,
+      "free": 5,
+      "occupancy_rate": 44.4,
+      "method": "spatial_analysis"
+    },
+    "detections": {
+      "tables_count": 9,
+      "people_count": 6
+    }
+  },
+  {
+    "timestamp": "2026-01-31T17:24:27.661343",
+    "original_image": "20260131_172427.jpg",
+    "annotated_image": "20260131_172427_annotated.jpg",
+    "stats": {
+      "total_tables": 12,
+      "occupied": 3,
+      "free": 9,
+      "occupancy_rate": 25.0,
+      "method": "spatial_analysis"
+    },
+    "detections": {
+      "tables_count": 12,
+      "people_count": 5
+    }
+  },
+  {
+    "timestamp": "2026-01-31T18:43:42.296424",
+    "original_image": "20260131_184341.jpg",
+    "annotated_image": "20260131_184341_annotated.jpg",
+    "stats": {
+      "total_tables": 12,
+      "occupied": 8,
+      "free": 4,
+      "occupancy_rate": 66.7,
+      "method": "spatial_analysis"
+    },
+    "detections": {
+      "tables_count": 12,
+      "people_count": 17
+    }
+  },
+  {
+    "timestamp": "2026-01-31T18:43:47.827392",
+    "original_image": "20260131_184347.jpg",
+    "annotated_image": "20260131_184347_annotated.jpg",
+    "stats": {
+      "total_tables": 12,
+      "occupied": 4,
+      "free": 8,
+      "occupancy_rate": 33.3,
+      "method": "spatial_analysis"
+    },
+    "detections": {
+      "tables_count": 12,
+      "people_count": 6
+    }
+  },
+  {
+    "timestamp": "2026-01-31T18:44:02.560560",
+    "original_image": "20260131_184402.jpg",
+    "annotated_image": "20260131_184402_annotated.jpg",
+    "stats": {
+      "total_tables": 11,
+      "occupied": 4,
+      "free": 7,
+      "occupancy_rate": 36.4,
+      "method": "spatial_analysis"
+    },
+    "detections": {
+      "tables_count": 11,
+      "people_count": 6
+    }
+  }
+]

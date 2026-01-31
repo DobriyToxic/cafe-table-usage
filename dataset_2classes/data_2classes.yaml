@@ -1,0 +1,13 @@
+train: ../dataset_2classes/train/images
+val: ../dataset_2classes/valid/images
+test: ../dataset_2classes/test/images
+
+nc: 2
+names: ['table', 'people']
+
+roboflow:
+  workspace: insper-erh3j
+  project: restaurant-tables-ymr9k
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/insper-erh3j/restaurant-tables-ymr9k/dataset/4
